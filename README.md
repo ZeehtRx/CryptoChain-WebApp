@@ -25,6 +25,10 @@ And the last one is portfolio page that can overview your stats. This page is us
 i added some blockchain features on the Circular transaction.
 
 # **UI/UX in Mobile**
-<img width="980" height="665" alt="Screenshot 2025-12-12 210104" src="https://github.com/user-attachments/assets/9e6cc48d-d896-48b1-aff2-b9237c75f559" />
-<img width="640" height="668" alt="Screenshot 2025-12-12 210528" src="https://github.com/user-attachments/assets/e9d289e1-3811-4c88-b781-2a62d1c57ac4" />
-<img width="657" height="661" alt="Screenshot 2025-12-12 210600" src="https://github.com/user-attachments/assets/1482c91c-45b5-4c46-9c7e-93ea302056a2" />
+<img width="307" height="652" alt="Screenshot 2025-12-12 214921" src="https://github.com/user-attachments/assets/6dd78c69-8b7d-4655-84f0-6060425c41b6" />
+<img width="302" height="655" alt="Screenshot 2025-12-12 215101" src="https://github.com/user-attachments/assets/20a6241a-794b-48b4-82a1-cf21ba71dfec" />
+<img width="301" height="652" alt="Screenshot 2025-12-12 215045" src="https://github.com/user-attachments/assets/82d86467-4def-4e8a-b444-400896efb890" />
+<img width="303" height="654" alt="Screenshot 2025-12-12 215029" src="https://github.com/user-attachments/assets/a228d298-1eaf-4b15-8549-d7f3a40e8f8d" />
+<img width="302" height="648" alt="Screenshot 2025-12-12 215013" src="https://github.com/user-attachments/assets/e7c2d100-88fe-41e0-b166-012e956d7839" />
+<img width="310" height="652" alt="Screenshot 2025-12-12 214955" src="https://github.com/user-attachments/assets/be363c1c-e846-4942-a2e7-21a4bc1c5ae4" />
+<img width="308" height="653" alt="Screenshot 2025-12-12 214942" src="https://github.com/user-attachments/assets/ccf06732-34b9-4e0d-bb73-9b978355dcfb" />
